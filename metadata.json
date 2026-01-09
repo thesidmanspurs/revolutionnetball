@@ -1,0 +1,7 @@
+{
+  "name": "Revolution Netball Hub",
+  "description": "A dedicated digital home for the Revolution Netball community. Manage your membership, book sessions across the UK, chat with fellow players, and stay updated on match schedules and weather alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
